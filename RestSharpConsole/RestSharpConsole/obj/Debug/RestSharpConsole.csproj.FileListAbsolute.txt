@@ -1,0 +1,14 @@
+C:\Users\Karthikeya\Source\Repos\RestSharpClientApi\RestSharpConsole\RestSharpConsole\obj\Debug\RestSharpConsole.csproj.CoreCompileInputs.cache
+C:\Users\Karthikeya\Source\Repos\RestSharpClientApi\RestSharpConsole\RestSharpConsole\bin\Debug\RestSharpConsole.exe.config
+C:\Users\Karthikeya\Source\Repos\RestSharpClientApi\RestSharpConsole\RestSharpConsole\bin\Debug\RestSharpConsole.exe
+C:\Users\Karthikeya\Source\Repos\RestSharpClientApi\RestSharpConsole\RestSharpConsole\bin\Debug\RestSharpConsole.pdb
+C:\Users\Karthikeya\Source\Repos\RestSharpClientApi\RestSharpConsole\RestSharpConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Karthikeya\Source\Repos\RestSharpClientApi\RestSharpConsole\RestSharpConsole\bin\Debug\RestSharp.dll
+C:\Users\Karthikeya\Source\Repos\RestSharpClientApi\RestSharpConsole\RestSharpConsole\bin\Debug\RestSharp.Newtonsoft.Json.dll
+C:\Users\Karthikeya\Source\Repos\RestSharpClientApi\RestSharpConsole\RestSharpConsole\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Karthikeya\Source\Repos\RestSharpClientApi\RestSharpConsole\RestSharpConsole\bin\Debug\RestSharp.xml
+C:\Users\Karthikeya\Source\Repos\RestSharpClientApi\RestSharpConsole\RestSharpConsole\obj\Debug\RestSharpConsole.exe
+C:\Users\Karthikeya\Source\Repos\RestSharpClientApi\RestSharpConsole\RestSharpConsole\obj\Debug\RestSharpConsole.pdb
+C:\Users\Karthikeya\Source\Repos\RestSharpClientApi\RestSharpConsole\RestSharpConsole\bin\Debug\ClassLibrary1.dll
+C:\Users\Karthikeya\Source\Repos\RestSharpClientApi\RestSharpConsole\RestSharpConsole\bin\Debug\ClassLibrary1.pdb
+C:\Users\Karthikeya\Source\Repos\RestSharpClientApi\RestSharpConsole\RestSharpConsole\obj\Debug\RestSharpConsole.csprojResolveAssemblyReference.cache

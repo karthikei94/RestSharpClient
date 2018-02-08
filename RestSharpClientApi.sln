@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharpClientApi", "RestSharpClientApi\RestSharpClientApi.csproj", "{6F1845D5-B249-4C2A-8C4F-48CCC21C3A13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedLibrary", "SharedLibrary\SharedLibrary.csproj", "{3C858EE6-5355-4BF1-B774-EE34B46C3EF8}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "SharedProject1", "SharedProject1\SharedProject1.shproj", "{9817483E-C66E-41C9-8255-8F0A21DBA3A8}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		SharedProject1\SharedProject1.projitems*{9817483e-c66e-41c9-8255-8f0a21dba3a8}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F1845D5-B249-4C2A-8C4F-48CCC21C3A13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F1845D5-B249-4C2A-8C4F-48CCC21C3A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F1845D5-B249-4C2A-8C4F-48CCC21C3A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F1845D5-B249-4C2A-8C4F-48CCC21C3A13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C858EE6-5355-4BF1-B774-EE34B46C3EF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C858EE6-5355-4BF1-B774-EE34B46C3EF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C858EE6-5355-4BF1-B774-EE34B46C3EF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C858EE6-5355-4BF1-B774-EE34B46C3EF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {503915BD-52AF-4835-9012-C4313E6B04D7}
+	EndGlobalSection
+EndGlobal

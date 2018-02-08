@@ -1,0 +1,5 @@
+c:\users\karthikeya\Source\Repos\RestSharpClientApi\SharedLibrary\obj\Debug\SharedLibrary.csproj.CoreCompileInputs.cache
+c:\users\karthikeya\Source\Repos\RestSharpClientApi\SharedLibrary\bin\Debug\SharedLibrary.dll
+c:\users\karthikeya\Source\Repos\RestSharpClientApi\SharedLibrary\bin\Debug\SharedLibrary.pdb
+c:\users\karthikeya\Source\Repos\RestSharpClientApi\SharedLibrary\obj\Debug\SharedLibrary.dll
+c:\users\karthikeya\Source\Repos\RestSharpClientApi\SharedLibrary\obj\Debug\SharedLibrary.pdb
